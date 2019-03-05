@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News Now</string>
+    <string name="loading_page">Loading Page ...</string>
+    <string name="loading_stories">Loading Stories ...</string>
+    <string name="loading_sources">Loading Sources ...</string>
+    <string name="error_no_internet">Internet is not Connected!</string>
+    <string name="error_con_timeout">Connection TImed Out... Try launching the App After Sometime</string>
+</resources>
